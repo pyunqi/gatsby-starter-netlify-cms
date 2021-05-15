@@ -3,8 +3,6 @@ templateKey: exchange-page
 path: /exchange
 title: 交易SHAB 币 （0x7005a0a1f40167f507ee1a9e7ed0bcaac1463f75）
 ---
-
-
 **点下面这个链接，连上你的钱包**
 
 * <https://exchange.pancakeswap.finance/#/swap?inputCurrency=0x55d398326f99059ff775485246999027b3197955&outputCurrency=0x214cd736f49fa2428edf70730a285575213c4704>
@@ -58,4 +56,4 @@ PancakeSwap是我们这俩SHAB唯一知道的能用来做交易的渠道，据�
 
 如果你想要联系LoserCoin团队，可以发送邮件到下面的邮箱地址：
 
-* [losercoin123@163.com](mailto:losercoin123@163.com)
+* [Shabcoin@yahoo.com](Shabcoin@yahoo.com)
