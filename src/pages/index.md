@@ -1,39 +1,95 @@
 ---
 templateKey: index-page
-title: IDIOT COIN ！IDIOT COIN！IDIOT COIN！
-image: /img/products-full-width.jpg
-heading: "This is A Wonderful Coin for SHABIs "
-subheading: It's time about it!
-mainpitch:
-  title: Why IDIOT Coin?
-  description: "IDIOT
-    IDIOT  IDIOT  IDIOT  IDIOT  IDIOT  IDIOT  IDIOT  IDIOT  IDIOT  IDIOT  IDIOT  \
-    IDIOT  IDIOT  IDIOT  IDIOT  IDIOT  IDIOT  IDIOT  IDIOT  IDIOT  IDIOT  IDIOT  \
-    IDIOT  IDIOT  IDIOT  IDIOT  IDIOT  IDIOT  IDIOT  IDIOT  IDIOT  IDIOT  IDIOT  \
-    IDIOT  IDIOT  IDIOT "
-description: XXXXXXXXXX
-intro:
-  blurbs: []
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
-main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
-  image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
-  image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
-  image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+title: 傻币
 ---
+我们是被各种NB闪闪的大人物割过韭菜的广告策划和码农，俗称傻逼！
+
+![](/img/1.jpg)
+
+我们坚信贾布斯下周一定会回来
+
+![](/img/2.jpg)
+
+也相信孙老师绝对不是个“口嗨慈善家”
+
+![](/img/3.gif)
+
+虽然现实很打脸，但我们从币圈看到了新希望。
+
+毕竟隔壁LOWB们都发币上岸了，我们是过来抄作业的
+
+本项目大概率砸盘，跑路。是个傻逼就赶紧上车！
+
+本项目大概率砸盘，跑路。但要是你也觉得自己是个傻逼，不妨赶紧上车，毕竟你们公司那么傻逼的人都能做你老板，保不齐以后的世界是咱傻逼们的天下！
+
+
+
+## 项目详情
+
+Idiot Coin
+
+### 所属区块链：
+
+BSC (币安智能链，但是傻逼也是可以上的)
+
+### 主网络：
+
+BEP20 (BSC 的 Token协议)
+
+### 合约地址 / Token地址`（`我们在此宣布我们是BSC上唯一的傻逼`）`：
+
+0x7005a0a1f40167f507ee1a9e7ed0bcaac1463f75
+
+### 代币名：
+
+SHAB 
+
+### 代币总数量：
+
+100,000,000,000
+
+### 代币分发比例：
+
+好多个亿：SHAB 挖矿
+
+特别多个亿：社区激励
+
+非常多个亿：空投
+
+足够砸盘个亿：团队（留作砸盘用）
+
+呃呃呃，其实是因为脑子太慢没想明白呢，但是总感觉这是要多少有多少的节奏
+
+## 官方社区
+
+## 官网：
+
+**<https://shabi.lol/>**
+
+### 官方挖矿:
+
+TBD
+
+### 官方微博：
+
+XXXXXX
+
+### 官方中文电报群：
+
+https://t.me/idiot_coin
+
+### 官方英文电报群：
+
+TBD
+
+### 官方推特号：
+
+https://twitter.com/idiot_coin
+
+
+
+# 如何交易
+
+## **现在就可以在PancakeSwap上交易！**
+
+**在PancakeSwap上**
