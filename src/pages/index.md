@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: 傻币
+title: 傻币项目说明
 ---
 **我们是被各种NB闪闪的大人物割过韭菜的广告策划和码农，俗称傻逼！**
 
@@ -87,6 +87,4 @@ https://twitter.com/idiot_coin
 
 # 如何交易
 
-## **现在就可以在PancakeSwap上交易！**
-
-**在PancakeSwap上**
+### 点击链接看说明：<https://www.shabi.lol/exchange>
