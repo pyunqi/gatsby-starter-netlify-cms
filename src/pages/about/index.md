@@ -1,19 +1,96 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
-title: About our values
+title: 傻币
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+我们是被各种NB闪闪的大人物割过韭菜的广告策划和码农，俗称傻逼！
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+![](/img/1.jpg)
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+我们坚信贾布斯下周一定会回来
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+![](/img/2.jpg)
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+也相信孙老师绝对不是个“口嗨慈善家”
+
+![](/img/3.gif)
+
+虽然现实很打脸，但我们从币圈看到了新希望。
+
+毕竟隔壁LOWB们都发币上岸了，我们是过来抄作业的
+
+本项目大概率砸盘，跑路。是个傻逼就赶紧上车！
+
+本项目大概率砸盘，跑路。但要是你也觉得自己是个傻逼，不妨赶紧上车，毕竟你们公司那么傻逼的人都能做你老板，保不齐以后的世界是咱傻逼们的天下！
+
+
+
+## 项目详情
+
+Idiot Coin
+
+### 所属区块链：
+
+BSC (币安智能链，但是傻逼也是可以上的)
+
+### 主网络：
+
+BEP20 (BSC 的 Token协议)
+
+### 合约地址 / Token地址`（`我们在此宣布我们是BSC上唯一的傻逼`）`：
+
+0x7005a0a1f40167f507ee1a9e7ed0bcaac1463f75
+
+### 代币名：
+
+SHAB 
+
+### 代币总数量：
+
+100,000,000,000
+
+### 代币分发比例：
+
+好多个亿：SHAB 挖矿
+
+特别多个亿：社区激励
+
+非常多个亿：空投
+
+足够砸盘个亿：团队（留作砸盘用）
+
+呃呃呃，其实是因为脑子太慢没想明白呢，但是总感觉这是要多少有多少的节奏
+
+## 官方社区
+
+## 官网：
+
+**<https://shabi.lol/>**
+
+### 官方挖矿:
+
+TBD
+
+### 官方微博：
+
+XXXXXX
+
+### 官方中文电报群：
+
+https://t.me/idiot_coin
+
+### 官方英文电报群：
+
+TBD
+
+### 官方推特号：
+
+https://twitter.com/idiot_coin
+
+
+
+# 如何交易
+
+## **现在就可以在PancakeSwap上交易！**
+
+**在PancakeSwap上**
