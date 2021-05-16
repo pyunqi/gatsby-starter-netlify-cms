@@ -37,9 +37,9 @@ collections:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "index-page"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
-      - file: "src/pages/about/index.md"
-        label: "Index"
-        name: "index"
+      - file: "src/pages/enindex/index.md"
+        label: "english Landing page"
+        name: "enindex"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "index-page"}
           - {label: "Title", name: "title", widget: "string"}
@@ -51,15 +51,8 @@ collections:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "exchange-page"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
-      - file: "src/pages/enindex/index.md"
-        label: "ENIndex"
-        name: "enindex"
-        fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "enindex-page"}
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Body", name: "body", widget: "markdown"}
       - file: "src/pages/enexchange/index.md"
-        label: "ENExchange Page"
+        label: "english Exchange Page"
         name: "enexchange"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "enexchange-page"}
