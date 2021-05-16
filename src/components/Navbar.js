@@ -41,7 +41,7 @@ const Navbar = class extends React.Component {
       >
         <div className="container">
           <div className="navbar-brand">
-            <Link to="/" className=" " title="Logo">
+            <Link to="/" title="Logo">
               <img class="is-rounded" width="128" height="128" src={logo} alt="idiot" />
             </Link>
             {/* Hamburger menu */}
@@ -91,3 +91,5 @@ const Navbar = class extends React.Component {
     )
   }
 }
+
+export default Navbar
