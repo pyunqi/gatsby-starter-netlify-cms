@@ -1,6 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { ENIndexPageTemplate } from '../../templates/ENIndex-page'
+import { ENIndexPageTemplate } from '../../templates/enindex-page'
 
 const ENIndexPagePreview = ({ entry, widgetFor }) => (
   <ENIndexPageTemplate
