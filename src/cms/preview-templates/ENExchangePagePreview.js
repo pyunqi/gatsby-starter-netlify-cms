@@ -1,19 +1,19 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { ENExchangeTemplate } from '../../templates/enexchange-page'
+import { ENExchangePageTemplate } from '../../templates/enexchange-page'
 
-const ENExchangePreview = ({ entry, widgetFor }) => (
-  <ENExchangeTemplate
+const ENExchangePagePreview = ({ entry, widgetFor }) => (
+  <ENExchangePageTemplate
     title={entry.getIn(['data', 'title'])}
     content={widgetFor('body')}
   />
 )
 
-ENExchangePreview.propTypes = {
+ENExchangePagePreview.propTypes = {
   entry: PropTypes.shape({
     getIn: PropTypes.func,
   }),
   widgetFor: PropTypes.func,
 }
 
-export default ENExchangePreview
+export default ENExchangePagePreview
