@@ -3,7 +3,7 @@ templateKey: enexchange-page
 path: /enexchange
 title: 交易SHAB 币 （0x214cd736f49fa2428edf70730a285575213c4704）
 ---
-**点下面这个链接，连上你的钱包**
+**Click link blow and start to join us**
 
 * <https://exchange.pancakeswap.finance/#/swap?inputCurrency=0x55d398326f99059ff775485246999027b3197955&outputCurrency=0x214cd736f49fa2428edf70730a285575213c4704>
 
