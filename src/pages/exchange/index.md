@@ -1,7 +1,7 @@
 ---
 templateKey: exchange-page
 path: /exchange
-title: 交易SHAB 币 （0x7005a0a1f40167f507ee1a9e7ed0bcaac1463f75）
+title: 交易SHAB 币 （0x214cd736f49fa2428edf70730a285575213c4704）
 ---
 **点下面这个链接，连上你的钱包**
 
@@ -46,9 +46,9 @@ PancakeSwap是我们这俩SHAB唯一知道的能用来做交易的渠道，据�
 
 我们两个官方傻逼会尽快或者不快或者不会上线下面的功能：
 
-* SHAB 挖矿（已上线USDT-LOWB、LOWB两个矿池）
+* SHAB 挖矿
 * SHAB NFT 市场
-* **等着对人生更有见解的SHABI们给我们来点套路**
+* 等待**对人生更有见解的傻逼们给我们来点套路**
 
 你可以通过关注Idiot Coin项目的官方电报频道，来及时获得SHAB项目的更多信息：
 
