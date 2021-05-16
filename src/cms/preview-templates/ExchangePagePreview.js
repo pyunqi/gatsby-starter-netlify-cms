@@ -1,6 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { ExchangePageTemplate } from '../../templates/about-page'
+import { ExchangePageTemplate } from '../../templates/exchange-page'
 
 const ExchangePagePreview = ({ entry, widgetFor }) => (
   <ExchangePageTemplate

@@ -1,6 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { ENExchangeTemplate } from '../../templates/about-page'
+import { ENExchangeTemplate } from '../../templates/enexchange-page'
 
 const ENExchangePreview = ({ entry, widgetFor }) => (
   <ENExchangeTemplate
