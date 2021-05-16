@@ -53,6 +53,7 @@ const Navbar = class extends React.Component {
               <span />
               <span />
               <span />
+              </div>
           </div>
           <div
             id="navMenu"
@@ -90,5 +91,3 @@ const Navbar = class extends React.Component {
     )
   }
 }
-
-export default Navbar
