@@ -33,13 +33,13 @@ So invest if you're an idiot, we will most definitely pump and dump and rug pull
 
 **Total SHAB:** 100000000000  
 
-**Allocation:**\
-Some billions: $SHAB Mining\
-A lot of billions: Community Rewards\
-RNG number of billions Airdrop\
+**Allocation:**  \
+Some billions: $SHAB Mining  \
+A lot of billions: Community Rewards  \
+RNG number of billions Airdrop  \
 Shitload of billions: Team (So that we can dump on you idiots)  
 
-**Connect With Us**
+**Connect With Us**  
 
 Telegram Chinese: <https://t.me/SHABCoin>  
 
