@@ -52,7 +52,7 @@ PancakeSwap是我们这俩SHAB唯一知道的能用来做交易的渠道，据�
 
 你可以通过关注Idiot Coin项目的官方电报频道，来及时获得SHAB项目的更多信息：
 
-* [https://t.me/](https://t.me/loser_coin_lowb)
+* <https://t.me/SHABCoin>
 
 如果你想要联系LoserCoin团队，可以发送邮件到下面的邮箱地址：
 

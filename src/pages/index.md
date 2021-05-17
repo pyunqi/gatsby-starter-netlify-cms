@@ -2,11 +2,9 @@
 templateKey: index-page
 title: 什么是傻币？
 ---
-**我们是被各种NB闪闪的大佬割过韭菜的一位广告策划和码农，俗称傻逼！**
+**傻币源于一名广告狗和码农，我们是被各种大佬割过韭菜的傻逼**
 
-![](/img/isA.jpg)
-
-![](/img/isB.jpg)
+![](/img/ab.jpg)
 
 我们坚信贾布斯下周一定会回来
 
@@ -72,15 +70,15 @@ TBD
 
 ### 官方微博：
 
-XXXXXX
+https://weibo.com/u/7610131202
 
 ### 官方中文电报群：
 
-https://t.me/idiot_coin
+https://t.me/SHABCoin
 
 ### 官方英文电报群：
 
-TBD
+https://t.me/SHABCoin_En
 
 ### 官方推特号：
 
