@@ -7,12 +7,9 @@ title: Idiot Coin
 
 Created by a media planner and programmer in an advertising agency from China  
 
-
-
 ![](/img/ab.jpg)
 
 We are the idiots that believed in Ponzi Schemes from the likes of Jia Yueting and Justin Sun  
-
 
 ![](/img/1.jpg)
 
@@ -20,15 +17,11 @@ We are the idiots that believed in Ponzi Schemes from the likes of Jia Yueting a
 
 After years of getting conned by Alt coins and the recent animal kingdom coins, we saw a light of hope  
 
-
 [LOWB](https://coinmarketcap.com/currencies/loser-coin/), a meme coin formed by two losers in China quickly gained popularity  
-
 
 With how easy it is to launch a coin on dex, finally we saw a way to conn others  
 
-
 So invest if you're an idiot, we will most definitely pump and dump and rug pull  
-
 
 Project Name
 
