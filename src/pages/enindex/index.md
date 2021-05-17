@@ -23,26 +23,26 @@ With how easy it is to launch a coin on dex, finally we saw a way to conn others
 
 So invest if you're an idiot, we will most definitely pump and dump and rug pull  
 
-Project Name
+**Project Name:** Idiot Coin  
 
-Contract Address
+**Contract Address:** XXXX  
 
-Pancakeswap
+**Pancakeswap:** XXXX  
 
-Ticker
-SHAB (Sha means idiot in Chinese)
+**Ticker:** SHAB (Sha means idiot in Chinese)  
 
-Total SHAB
+**Total SHAB:** 100000000000  
 
-Some billions: $SHAB Mining
-A lot of billions: Community Rewards
-RNG number of billions Airdrop
-Shitload of billions: Team (So that we can dump on you idiots)
+**Allocation:**\
+Some billions: $SHAB Mining\
+A lot of billions: Community Rewards\
+RNG number of billions Airdrop\
+Shitload of billions: Team (So that we can dump on you idiots)  
 
-Connect With Us
+**Connect With Us**
 
-Telegram Chinese
+Telegram Chinese: <https://t.me/SHABCoin>  
 
-Telegram English
+Telegram English: <https://t.me/SHABCoin_En>  
 
-Twitter
+Twitter: <https://twitter.com/idiot_coin>
