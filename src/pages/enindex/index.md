@@ -28,7 +28,9 @@ So invest if you're an idiot, we will most definitely pump and dump and rug pull
 
 **Contract Address:** 0x214cd736f49fa2428edf70730a285575213c4704  
 
-**Pancakeswap:**  [SWAP SHAB](https://exchange.pancakeswap.finance/#/add/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/0x214cd736f49fa2428edf70730a285575213c4704)
+**Pancakeswap:**  [SWAP SHAB]
+
+(https://exchange.pancakeswap.finance/#/swap?inputCurrency=0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56&outputCurrency=0x214cd736f49fa2428edf70730a285575213c4704)
 
 **Ticker:** SHAB (Sha means idiot in Chinese)  
 
