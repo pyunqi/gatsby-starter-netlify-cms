@@ -3,7 +3,8 @@ templateKey: enindex-page
 path: /enindex
 title: Idiot Coin
 ---
-# **What is Idiot Coin?**
+# **What is Idiot Coin?** contact: Shabcoin@yahoo.com or 2shabcoin@gmail.com
+
 
 Created by a media planner and programmer in an advertising agency from China  
 
