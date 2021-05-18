@@ -3,6 +3,7 @@ templateKey: index-page
 title: 什么是傻币？
 ---
 **傻币源于一名广告狗和码农，我们是被各种大佬割过韭菜的傻逼**
+**邮箱在这里：**[Shabcoin@yahoo.com](mailto:Shabcoin@yahoo.com)
 
 ![](/img/ab.jpg)
 
