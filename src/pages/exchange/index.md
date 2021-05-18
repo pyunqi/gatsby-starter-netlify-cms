@@ -5,7 +5,7 @@ title: 交易SHAB 币 （0x214cd736f49fa2428edf70730a285575213c4704）
 ---
 **点下面这个链接，连上你的钱包**
 *** 想要崇拜我们或者想要空投，来来来大傻逼和2傻逼等着你
- Shabcoin@yahoo.com or 2shabcoin@gmail.com
+ Shabcoin@yahoo.com
 * [SWAP SHAB](https://exchange.pancakeswap.finance/#/add/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/0x214cd736f49fa2428edf70730a285575213c4704)
 
 **关于这链接里面的2个地址，SHAB 是不用知道他们是什么的**
